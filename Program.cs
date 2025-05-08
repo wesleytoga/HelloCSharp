@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace HelloWorld
+{
+    class HelloCSharp
+    {
+        static void Main()
+        {
+            Console.WriteLine("Hello, C#!");
+        }
+    }
+};
